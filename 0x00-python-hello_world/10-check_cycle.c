@@ -1,4 +1,3 @@
-#include <stdlib.h>
 #include "lists.h"
 /**
 *check_cycle - function declaration
